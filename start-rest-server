@@ -1,0 +1,1 @@
+gaiacli rest-server --node=tcp://localhost:26657 --laddr=tcp://127.0.0.1:1317 --trust-node=true
